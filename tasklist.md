@@ -6,4 +6,4 @@ My To Do List
 5. Form or join study groups
 6. Schedule weekly coding practices sessions
 7. Back up all project files and code repositories
-8. Attend at leasr one tech workshop
+8. Attend at least one tech workshop
